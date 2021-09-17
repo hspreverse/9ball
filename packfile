@@ -1,0 +1,19 @@
+;  packfile list for DPM
+;  Current dir is [C:\Users\user\Desktop\新しいフォルダー (2)\hsp_9ball\hsp255\sample\hgimg\]
+hgimg.dll
+hsptmp
+obj
+ball2.bmp
+br_flo00.bmp
+br_wal00.bmp
+br_wal11.bmp
+br_wal12.bmp
+br_win00.bmp
+btex.bmp
+fontchr.bmp
+9ball.bmp
+9ball.mx
+start.ax
+9ball.ax
+9ball.as
+room.mx
